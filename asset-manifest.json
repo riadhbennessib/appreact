@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/appreact/static/css/main.e7903be2.chunk.css",
+    "main.js": "/appreact/static/js/main.6947354a.chunk.js",
+    "main.js.map": "/appreact/static/js/main.6947354a.chunk.js.map",
+    "runtime-main.js": "/appreact/static/js/runtime-main.3f0a1d91.js",
+    "runtime-main.js.map": "/appreact/static/js/runtime-main.3f0a1d91.js.map",
+    "static/js/2.662041c8.chunk.js": "/appreact/static/js/2.662041c8.chunk.js",
+    "static/js/2.662041c8.chunk.js.map": "/appreact/static/js/2.662041c8.chunk.js.map",
+    "index.html": "/appreact/index.html",
+    "precache-manifest.014b82c9ccb1825fffcd4aa69165d3e5.js": "/appreact/precache-manifest.014b82c9ccb1825fffcd4aa69165d3e5.js",
+    "service-worker.js": "/appreact/service-worker.js",
+    "static/css/main.e7903be2.chunk.css.map": "/appreact/static/css/main.e7903be2.chunk.css.map",
+    "static/js/2.662041c8.chunk.js.LICENSE.txt": "/appreact/static/js/2.662041c8.chunk.js.LICENSE.txt",
+    "static/media/riadhbennessib.jfif": "/appreact/static/media/riadhbennessib.4d114be0.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f0a1d91.js",
+    "static/js/2.662041c8.chunk.js",
+    "static/css/main.e7903be2.chunk.css",
+    "static/js/main.6947354a.chunk.js"
+  ]
+}
